@@ -4,7 +4,7 @@
 
 Welcome to my Github page! I am Thomas and currently I love working on Discord bots and I'm currently learning linux!
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/TSOT7/TSOT7/blob/main/6789-sunset-waves.gif" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -35,4 +35,4 @@ Welcome to my Github page! I am Thomas and currently I love working on Discord b
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/TSOT7/TSOT7/blob/main/6789-sunset-waves.gif)</sub>
+
