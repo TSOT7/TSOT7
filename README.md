@@ -10,7 +10,7 @@ Welcome to my Github page! I am Thomas and currently I love working on Discord b
 #### 🌱 Things I am currently working on: 
 - Finish high school 
 - develop and all-around computer science portfolio
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- MBTA-Discord bot 
 
 #### :muscle: Things I am challenging myself with:
 - Learning linux(ubuntu cuz im noob 😊)
