@@ -4,7 +4,7 @@
 
 Welcome to my Github page! I am Thomas and currently I love working on Discord bots and I'm currently learning linux!
 
-<img align="right" alt="img" src="https://github.com/TSOT7/TSOT7/blob/main/6789-sunset-waves.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/TSOT7/TSOT7/blob/main/2439484.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
