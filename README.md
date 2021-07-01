@@ -1,6 +1,4 @@
-### Hi there 👋 
-### Pumas Here
-
+### Hi there! 👋 
 
 Welcome to my Github page! I am Thomas and currently I love working on Discord bots and I'm currently learning linux!
 
@@ -34,5 +32,6 @@ Welcome to my Github page! I am Thomas and currently I love working on Discord b
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-
-
+#### Contact me!
+- If you want to contact me, message me via discord 
+https://discords.com/bio/p/pumas
