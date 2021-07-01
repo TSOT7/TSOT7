@@ -10,7 +10,7 @@ Welcome to my Github page! I am Thomas and currently I love working on Discord b
 - develop and all-around computer science portfolio
 - MBTA-Discord bot 
 
-#### :muscle: Things I am challenging myself with:
+#### :muscle: Things I am challenging myself with: 
 - Learning linux(ubuntu cuz im noob 😊)
 - Coding everyday
 - Trying to read more books about anything ( philosophy, self improvement, programming )
@@ -32,6 +32,6 @@ Welcome to my Github page! I am Thomas and currently I love working on Discord b
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-## ❓ Contact me!
+#### ❓ Contact me:
 - If you want to contact me, message me via discord 
 https://discords.com/bio/p/pumas
