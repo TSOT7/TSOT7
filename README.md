@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Pumas
+### Pumas Here
 
 
 Welcome to my Github page! I am Thomas and currently I love working on Discord bots and I'm currently learning linux!
