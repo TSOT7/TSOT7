@@ -1,6 +1,4 @@
 ### Hi there 👋, ‎
-![](https://github.com/TSOT7/TSOT7/blob/f12142b1f8abac0d67fbf07ed1840696e92cb065/header.png)
-
 
 Skills: Python / JS / HTML / CSS
 
