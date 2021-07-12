@@ -1,12 +1,14 @@
 ### ｈｉ　ｔｈｅｒｅ　者゜ふ
 
-ꜱᴛᴜᴅᴇɴᴛ, ʟɪɴᴜx ᴇɴᴛʜᴜꜱɪᴀꜱᴛ, ᴀᴇꜱᴛʜᴇᴛɪᴄꜱ ᴘʟᴇᴀꜱᴇ
+### ꜱᴛᴜᴅᴇɴᴛ, ʟɪɴᴜx ᴇɴᴛʜᴜꜱɪᴀꜱᴛ, ᴀᴇꜱᴛʜᴇᴛɪᴄꜱ ᴘʟᴇᴀꜱᴇ
 
-### ｓｔｕｄｅｎｔ，　Ｌｉｎｕｘ　ｅｎｔｈｕｓｉａｓｔ，　ａｅｓｔｈｅｔｉｃｓ　ｐｌｅａｓｅ
+Im working on: 
+- learning desktop ricing(Endeavor OS + i3WM) 
+- Building a well rounded portoflio/resume
 
-- 🔭 I’m currently working on my custom desktop (Endeavor OS + i3WM) 
-- 📫 How to reach me: [Discord](https://discords.com/bio/p/pumas) 
+Skills/Learning
+Python / JS / HTML / CSS / Java
 
-Python / JS / HTML / CSS
+- Reach me via [Discord](https://discords.com/bio/p/pumas) 
 
 ![Profile views](https://gpvc.arturio.dev/TSOT7)  
