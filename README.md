@@ -11,4 +11,3 @@ Python / JS / HTML / CSS / Java
 
 - Reach me via [Discord](https://discords.com/bio/p/pumas) 
 
-![Profile views](https://gpvc.arturio.dev/TSOT7)  
