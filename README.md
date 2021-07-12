@@ -2,7 +2,7 @@
 
 ꜱᴛᴜᴅᴇɴᴛ, ʟɪɴᴜx ᴇɴᴛʜᴜꜱɪᴀꜱᴛ, ᴀᴇꜱᴛʜᴇᴛɪᴄꜱ ᴘʟᴇᴀꜱᴇ
 
-
+ｓｔｕｄｅｎｔ，　Ｌｉｎｕｘ　ｅｎｔｈｕｓｉａｓｔ，　ａｅｓｔｈｅｔｉｃｓ　ｐｌｅａｓｅ
 
 - 🔭 I’m currently working on my custom desktop (Endeavor OS + i3WM) 
 - 📫 How to reach me: [Discord](https://discords.com/bio/p/pumas) 
