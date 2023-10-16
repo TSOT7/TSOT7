@@ -4,7 +4,7 @@
 
 Im working on: 
 - learning desktop ricing(Endeavor OS + i3WM) 
-- Building a well rounded portoflio/resume
+- Building portfolio website 
 
 Skills/Learning
 Python / JS / HTML / CSS / Java
