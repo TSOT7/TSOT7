@@ -1,5 +1,6 @@
 ### ｈｉ　ｔｈｅｒｅ　者゜ふ
 
+![](https://github.com/TSOT7/TSOT7/blob/main/84cc005b1b6afcb7a935e53eb2c0b374.gif)
 
 ### ꜱᴛᴜᴅᴇɴᴛ, ᴄᴏᴅᴇʀ, ᴀᴇꜱᴛʜᴇᴛɪᴄꜱ ᴘʟᴇᴀꜱᴇ
 ```
