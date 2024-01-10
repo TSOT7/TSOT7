@@ -1,6 +1,5 @@
 ### ｈｉ　ｔｈｅｒｅ　者゜ふ
 
-[!text](https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif)
 
 ### ꜱᴛᴜᴅᴇɴᴛ, ᴄᴏᴅᴇʀ, ᴀᴇꜱᴛʜᴇᴛɪᴄꜱ ᴘʟᴇᴀꜱᴇ
 ```
