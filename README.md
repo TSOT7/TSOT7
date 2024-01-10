@@ -1,7 +1,7 @@
 ### ｈｉ　ｔｈｅｒｅ　者゜ふ
 ### ꜱᴛᴜᴅᴇɴᴛ, ᴄᴏᴅᴇʀ, ᴀᴇꜱᴛʜᴇᴛɪᴄꜱ ᴘʟᴇᴀꜱᴇ
 
-<img align="left" width="1280" height="640" src="https://github.com/TSOT7/TSOT7/blob/main/84cc005b1b6afcb7a935e53eb2c0b374.gif">
+<img align="left" width="640" height="320" src="https://github.com/TSOT7/TSOT7/blob/main/84cc005b1b6afcb7a935e53eb2c0b374.gif">
 
 ```
 Im working on: 
